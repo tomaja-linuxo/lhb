@@ -1,7 +1,8 @@
 ---
-title: "Post01"
+title: "Пробни текст"
+subtitle: "deployment over Travis CI"
 date: 2019-05-15T13:36:42+02:00
-draft: true
+draft: false
 ---
 
 # Ово је наслов
