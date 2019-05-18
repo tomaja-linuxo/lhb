@@ -4,4 +4,4 @@ title = "Linuxo blog"
 theme = "ananke"
 
 [params]
-HUGO_ENV = "production"
+# env = "production"
