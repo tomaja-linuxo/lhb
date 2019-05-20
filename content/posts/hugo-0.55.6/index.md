@@ -3,7 +3,7 @@ title: "Hugo 0.55.6: One Bug Fix!"
 subtitle: Fixes some reported paginator crashes in server mode
 date: 2019-05-18T14:23:52+02:00
 draft: false
-slug: hugo-055-6
+slug: 
 author: tomaja
 ---
 
