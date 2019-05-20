@@ -9,10 +9,10 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.55.6" />
+    <meta name="generator" content="Hugo 0.55.5" />
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     
 
     
@@ -50,9 +50,11 @@
 <meta name="twitter:title" content="Hugo 0.55.6: One Bug Fix!"/>
 <meta name="twitter:description" content="This is a bug-fix release with one important fix. There have been reports about infrequent paginator crashes when running the Hugo server since 0.55.0. The reason have been narrowed down to that of parallel rebuilds. This isn’t a new thing, but the changes in 0.55.0 made it extra important to serialize the page initialization. This release fixes that by protecting the Build method with a lock when running in server mode."/>
 
+      
+    
   </head>
 
-  <body class="ma0 avenir bg-near-white">
+  <body class="ma0 avenir bg-near-white production">
 
     
    
