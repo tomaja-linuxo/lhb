@@ -1,9 +1,5 @@
-language: go 
 
 language: node_js
-
-go:
-  - master # This uses automatically the latest version of go
 
 node_js:
    - "10.15.0"
