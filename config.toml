@@ -5,3 +5,4 @@ theme = "ananke"
 
 [params]
 # env = "production"
+ custom_css = ["css/custom.css"]
