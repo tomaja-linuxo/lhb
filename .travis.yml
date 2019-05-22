@@ -1,14 +1,7 @@
-
 language: node_js
-
 node_js:
    - "10.15.0"
-
-install:
-  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
-
 script:
-   - hugo # This commands builds your website on travis
    - echo "аутоматско постављање..."
 install:
    - npm install -g firebase-tools
