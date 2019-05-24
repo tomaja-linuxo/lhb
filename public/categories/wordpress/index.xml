@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress on Linuxo blog</title>
+    <link>/categories/wordpress/</link>
+    <description>Recent content in wordpress on Linuxo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2019 08:41:40 +0200</lastBuildDate>
+    
+        <atom:link href="/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wordpress to Hugo</title>
+      <link>/posts/wordpress-to-hugo/</link>
+      <pubDate>Fri, 24 May 2019 08:41:40 +0200</pubDate>
+      
+      <guid>/posts/wordpress-to-hugo/</guid>
+      <description>&lt;p&gt;Great text from &lt;a href=&#34;https://t.co/JmrBBQkiMB&#34;&gt;Christopher Kirk-Nielsen&lt;/a&gt; about how to convert blog from Wordpress to Hugo.
+I recommend reading this to anyone who plans to make the &amp;lsquo;move&amp;rsquo; :)
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;WordPress has a pretty robust architecture that can feel a bit too complex to run a simple blog. &lt;a href=&#34;https://twitter.com/ckirknielsen?ref_src=twsrc%5Etfw&#34;&gt;@ckirknielsen&lt;/a&gt; sheds light on how Hugo can help you create a blog that is simple and fast.&lt;br&gt;&lt;br&gt;↬ Switching From WordPress To Hugo&lt;a href=&#34;https://t.co/ShNqLv2Ca3&#34;&gt;https://t.co/ShNqLv2Ca3&lt;/a&gt; &lt;a href=&#34;https://t.co/o6MriCDR6p&#34;&gt;pic.twitter.com/o6MriCDR6p&lt;/a&gt;&lt;/p&gt;&amp;mdash; Smashing Magazine (@smashingmag) &lt;a href=&#34;https://twitter.com/smashingmag/status/1131192919556263939?ref_src=twsrc%5Etfw&#34;&gt;May 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Actually, this post was published on Smashing Magazine, which happens to be also powered with Hugo. Great !&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

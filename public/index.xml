@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linuxo blog</title>
+    <link>/</link>
+    <description>Recent content on Linuxo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2019 08:41:40 +0200</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wordpress to Hugo</title>
+      <link>/posts/wordpress-to-hugo/</link>
+      <pubDate>Fri, 24 May 2019 08:41:40 +0200</pubDate>
+      
+      <guid>/posts/wordpress-to-hugo/</guid>
+      <description>&lt;p&gt;Great text from &lt;a href=&#34;https://t.co/JmrBBQkiMB&#34;&gt;Christopher Kirk-Nielsen&lt;/a&gt; about how to convert blog from Wordpress to Hugo.
+I recommend reading this to anyone who plans to make the &amp;lsquo;move&amp;rsquo; :)
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;WordPress has a pretty robust architecture that can feel a bit too complex to run a simple blog. &lt;a href=&#34;https://twitter.com/ckirknielsen?ref_src=twsrc%5Etfw&#34;&gt;@ckirknielsen&lt;/a&gt; sheds light on how Hugo can help you create a blog that is simple and fast.&lt;br&gt;&lt;br&gt;↬ Switching From WordPress To Hugo&lt;a href=&#34;https://t.co/ShNqLv2Ca3&#34;&gt;https://t.co/ShNqLv2Ca3&lt;/a&gt; &lt;a href=&#34;https://t.co/o6MriCDR6p&#34;&gt;pic.twitter.com/o6MriCDR6p&lt;/a&gt;&lt;/p&gt;&amp;mdash; Smashing Magazine (@smashingmag) &lt;a href=&#34;https://twitter.com/smashingmag/status/1131192919556263939?ref_src=twsrc%5Etfw&#34;&gt;May 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Actually, this post was published on Smashing Magazine, which happens to be also powered with Hugo. Great !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo Workflow on Android</title>
+      <link>/posts/hugo-workflow-on-android/</link>
+      <pubDate>Tue, 21 May 2019 09:33:02 +0200</pubDate>
+      
+      <guid>/posts/hugo-workflow-on-android/</guid>
+      <description>
+
+&lt;h3 id=&#34;hugo-is-very-versatile&#34;&gt;Hugo is very versatile.&lt;/h3&gt;
+
+&lt;p&gt;It can be used on various software environments, including &lt;strong&gt;&lt;em&gt;Android&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.55.6: One Bug Fix!</title>
+      <link>/posts/hugo-0.55.6/</link>
+      <pubDate>Sat, 18 May 2019 14:23:52 +0200</pubDate>
+      
+      <guid>/posts/hugo-0.55.6/</guid>
+      <description>
+
+&lt;p&gt;This is a bug-fix release with one important fix. There have been reports about infrequent paginator crashes when running the Hugo server since 0.55.0. The reason have been narrowed down to that of parallel rebuilds. This isn’t a new thing, but the changes in 0.55.0 made it extra important to serialize the page initialization. This release fixes that by protecting the Build method with a lock when running in server mode.&lt;/p&gt;
+
+&lt;h4 id=&#34;you-can-fetch-new-hugo-version-as-usuall-or-go-to&#34;&gt;You can fetch new Hugo version as usuall or go to&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;https://github.com/gohugoio/hugo/releases&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Source:&lt;/em&gt; &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

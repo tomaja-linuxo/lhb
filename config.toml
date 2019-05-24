@@ -1,10 +1,30 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Linuxo blog"
-theme = "ananke"
+theme = "beautifulhugo"
 SectionPagesMenu = "main"
+MetaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = false
+#pygmentsStyle = "emacs"
+googleAnalytics = ""
+enableGitInfo = true
 
 [params]
 # env = "production"
  custom_css = ["css/custom.css"]
+ comments = true 
+ gcse = " 007122025524737135438:jnqhvujmxru" 
  staticman_api = "https://api.staticman.net/v2/entry/tomaja-linuxo/lhb-comments/master" #Add staticman API URL to enable staticman comments
+ githubPullURL = "https://github.com/tomaja-linuxo/lhb-comments/pulls"
+ githubIssuesURL = "https://github.com/tomaja-linuxo/lhb-comments/issues"
+ recaptcha_siteKey = "6LfGUaUUAAAAAMx0VutQfYpt8mBSW_pi_s8ona2q"
+ recaptcha_secret = "6LfGUaUUAAAAAAdFavvpjOrZx07Gs9l3PfOv9-Ei"
+ #adsensePubID = "pub-8071463113547568" # adsensepublisher ID eg. pub-XXXXXX
+ #adsenseAdID = "8021396735"
+ readingTime = true
+ socialShare = false
+ showRelatedPosts = true
+ wordCount = true
+ useHLJS = true

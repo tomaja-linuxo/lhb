@@ -1,0 +1,35 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+}
+
+body {
+    background: url(/images/blog_back_93.svg) no-repeat;
+    background-size: cover;
+}
+footer.bg-black {
+    background: none;
+}
+
+header .bg-black {
+    background: none;
+}
+
+footer.bg-black a:visited, a:active, a {
+    color: #333;
+}
+
+footer.bg-black a:hover {
+    color: beige;
+}
+
+header .light-silver {
+    color: #1c056e;
+}
+
+header {
+    font-family: 'Segoe UI',Calibri, 'Trebuchet MS',sans-serif!important;
+} 
+header div h1 {
+    padding: 0px;
+}
+

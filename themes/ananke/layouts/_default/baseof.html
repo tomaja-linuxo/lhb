@@ -17,6 +17,7 @@
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
+    {{- partial "footer_custom.html" . }}
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
     {{ with $stylesheet.css }}
       <link href="{{ relURL (printf "%s%s" "dist/" .) }}" rel="stylesheet">
@@ -54,5 +55,8 @@
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
+
+    {{- partial "footer_custom.html" . }}
+
   </body>
 </html>
