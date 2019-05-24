@@ -7,3 +7,4 @@ SectionPagesMenu = "main"
 [params]
 # env = "production"
  custom_css = ["css/custom.css"]
+ staticman_api = "https://api.staticman.net/v2/entry/tomaja-linuxo/lhb-comments/master" #Add staticman API URL to enable staticman comments
