@@ -1,0 +1,17 @@
+---
+author: tomaja
+date: "2009-03-12T05:13:45Z"
+excerpt: |
+  <img class=" alignright size-full wp-image-1270" src="https://linuxo.org/wp-content/uploads/2006/08/pclinuxos.png" alt="PCLinuxOS" title="PCLinuxOS" hspace="4" width="90" height="81" align="right" />Kao je objavio Texstar, osnivač ove distribucije,&nbsp;<a href="http://getpclinuxos.com/about/developers/"><strong>Ripper Gang</strong></a>&nbsp;je objavio izlazak&nbsp;finalne javne verzije&nbsp;<strong>PCLinuxOS 2009.1</strong>. Ovo izdanje koristi&nbsp;kernel 2.6.26.8.tex3, KDE 3.5.10, Open Office 3.0, Firefox 3.0.7, Thunderbird 2.0.0.14, Ktorrent, Frostwire, Amarok, Flash, Java JRE, Compiz-Fusion 3D&nbsp;i jo&scaron; mnogo toga.&nbsp;Kde3-5-10 je izabran kao&nbsp;default desktop zbog nemogućnosti da dobiju sličnu funkcionalnost sa kde4. Ipak,&nbsp;kde4 će ostati kao alternativno&nbsp;desktop okruženje dostupno preko riznica (repozitorijuma) čim bude stabilizovano. Takođe je objavljena i PCLinuxOS-Gnome varijanta istog sistema koje koristi kernel 2.6.26.8.tex3, Gnome 2.24.3, Mozilla Firefox 3.0.7, Mozilla Thunderbird 2.0.0.17, Gnome office aplikacije, Brasero, Exaile muzički plejer i mnogo toga drugog. Treba reći da je dostupno, pored softvera na instalacionom disku, jo&scaron;&nbsp;8000+ dodatnih paketa dostupnih za instalaciju preko&nbsp;Synaptic menadžera za softver.Link za <a href="http://www.pclinuxos.com/index.php?option=com_ionfiles&amp;Itemid=28"><strong>download</strong></a>
+guid: https://forum.linuxo.org/2009/03/12/pclinuxos-2009-1-i-zvanicno/
+id: 2237
+image: /wp-content/uploads/2006/08/pclinuxos.png
+tc-thumb-fld:
+- a:2:{s:9:"_thumb_id";s:4:"1270";s:11:"_thumb_type";s:5:"thumb";}
+title: PCLinuxOS 2009.1 i zvanično
+url: /pclinuxos-2009-1-i-zvanicno/
+---
+<img class=" alignright size-full wp-image-1270" src="https://linuxo.org/wp-content/uploads/2006/08/pclinuxos.png" alt="PCLinuxOS" title="PCLinuxOS" hspace="4" width="90" height="81" align="right" />Kao je objavio Texstar, osnivač ove distribucije,&nbsp;[**Ripper Gang**](http://getpclinuxos.com/about/developers/)&nbsp;je objavio izlazak&nbsp;finalne javne verzije&nbsp;**PCLinuxOS 2009.1**. Ovo izdanje koristi&nbsp;kernel 2.6.26.8.tex3, KDE 3.5.10, Open Office 3.0, Firefox 3.0.7, Thunderbird 2.0.0.14, Ktorrent, Frostwire, Amarok, Flash, Java JRE, Compiz-Fusion 3D&nbsp;i jo&scaron; mnogo toga.&nbsp;Kde3-5-10 je izabran kao&nbsp;default desktop zbog nemogućnosti da dobiju sličnu funkcionalnost sa kde4. Ipak,&nbsp;kde4 će ostati kao alternativno&nbsp;desktop okruženje dostupno preko riznica (repozitorijuma) čim bude stabilizovano. Takođe je objavljena i PCLinuxOS-Gnome varijanta istog sistema koje koristi kernel 2.6.26.8.tex3, Gnome 2.24.3, Mozilla Firefox 3.0.7, Mozilla Thunderbird 2.0.0.17, Gnome office aplikacije, Brasero, Exaile muzički plejer i mnogo toga drugog. Treba reći da je dostupno, pored softvera na instalacionom disku, jo&scaron;&nbsp;8000+ dodatnih paketa dostupnih za instalaciju preko&nbsp;Synaptic menadžera za softver.Link za [**download**](http://www.pclinuxos.com/index.php?option=com_ionfiles&Itemid=28)  
+<!--break-->
+
+[Креирај тему форума везану за овај текст](https://linuxo.org/nova-tema-na-forumu/?se_pid=2237)

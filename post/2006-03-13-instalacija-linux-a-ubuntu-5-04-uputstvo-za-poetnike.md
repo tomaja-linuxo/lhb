@@ -1,0 +1,21 @@
+---
+author: tomaja
+date: "2006-03-13T15:53:21Z"
+excerpt: |
+  Ubuntu je prvi na listi popularnost slobodnih operativnih sistema, da vidimo zašto. Ubaci Ubuntu install CD i resetuj ra?unar, na pozdravnom ekranu pritisni enter. Strelicom na dole na tastaturi izaberi srpski jezik i pritisni enter. &#8222;Izaberite raspored tipki&#8220; strelicom na dole izaberi &#8222;Select from full keyboard list&#8220; i pritisni enter. Strelicom na gore izaberi &#8222;Ameri?ki engleski&#8220; i dva puta pritisni enter. &#8222;Podesi mrežu&#8220; dva puta pritisni enter.<br />
+  Za nastavak kliknite na "Pro?itaj još..."
+guid: https://forum.linuxo.org/2006/03/13/instalacija-linux-a-ubuntu-5-04-uputstvo-za-poetnike/
+id: 1085
+tc-thumb-fld:
+- a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}
+title: Instalacija Linux-a Ubuntu 5.04 &#8211; uputstvo za po?etnike
+url: /instalacija-linux-a-ubuntu-5-04-uputstvo-za-poetnike/
+---
+Ubuntu je prvi na listi popularnost slobodnih operativnih sistema, da vidimo zašto. Ubaci Ubuntu install CD i resetuj ra?unar, na pozdravnom ekranu pritisni enter. Strelicom na dole na tastaturi izaberi srpski jezik i pritisni enter. &#8222;Izaberite raspored tipki&#8220; strelicom na dole izaberi &#8222;Select from full keyboard list&#8220; i pritisni enter. Strelicom na gore izaberi &#8222;Ameri?ki engleski&#8220; i dva puta pritisni enter. &#8222;Podesi mrežu&#8220; dva puta pritisni enter.  
+Za nastavak kliknite na &#8222;Pro?itaj još&#8230;&#8220;<!--break-->&#8222;Particioniši diskove&#8220; strelicom na dole izaberi &#8222;Ru?no uredite particionu tabelu&#8220; i pritisni enter. Strelicom na dole izaberi poslednju (ili jedinu) particiju na spisku i pritisni enter. Strelicom na dole izaberi &#8222;Veli?ina:&#8220; i pritisni enter. &#8222;Zapisati promene na diskovne ureÄ‘aje i promeniti veli?inu particije&#8220; pritisni strelicu na levo na &#8222;Da&#8220; pa enter. &#8222;Nova veli?ina particije&#8220; upiši 3 GB manju od predložene i pritisni enter (recimo da piše 20 GB, upiši 17 GB, pod uslovom da imaš 3 GB slobodnog prostora na Windows particiji). Strelicom na dole izaberi &#8222;Slobodni prostor&#8220; i pritisni enter. Strelicom na dole izaberi &#8222;Automatski particioniši slobodni prostor&#8220; pritisni enter pa strelicom na gore izaberi novodobijenu ext3 particiju obeleženu munjom i ponovo enter. Strelicom na gore izaberi &#8222;Bootable opcija&#8220; pa pritisni enter. Strelicom na dole izaberi &#8222;Završeno podešavanje particije&#8220; i pritisni enter. Sada strelicom na gore izaberi prvu particiju na spisku i pritisni enter. Strelicon na gore izaberi &#8222;Bootable opcija&#8220; pritisni enter. Strelicon na dole doÄ‘i do &#8222;Završeno&#8220; i pritisni enter. Sada je munja pored prve particije, a smajli pored poslednje dve. Strelicom na dole izaberi &#8222;Završi particionisanje i zapiši promene na disk&#8220; i pritisni enter, pa strelicom na levo na &#8222;Da&#8220; i ponovo enter.
+
+  
+Kada završi kopiranje ostatka paketa na hard disk, na pitanje &#8222;Download language support&#8220; odgovori strelicom na desno na &#8222;Ne&#8220; i pritisni enter. &#8222;Is the hardware clock set to GMT&#8220; pritisni enter ( na &#8222;Ne&#8220;). Na pitanje &#8222;Da li ste u Evropa/Beograd vremenskoj zoni&#8220; pritisni enter. &#8222;Enter a full name for the new user&#8220; upiši ime i prezime sa velikim po?etnim slovima i razmakom izmeÄ‘u, pa pritisni enter, zapamti ponuÄ‘eno korisni?ko ime i ponovo enter. &#8222;Unesi šifru za novog korisnika&#8220; (tebe) upiši ubuntu pritisni enter pa ponovi šifru (ne piše ništa, ni zvezdice).  
+&#8222;Instalirati GRUB boot loader na master boot record&#8220; strelicom na desno izaberi &#8222;Ne&#8220; i pritisni enter. Ubaci disketu i upiši /dev/fd0 pa pritisni enter. Kada otvori drajv izvadi disk, ostavi disketu i pritisni enter. Sa?ekaj da se završi instalacija i GRUB pokrene Linux Ubuntu. Prijavi se na sistem: upiši korisni?ko ime, enter pa šifru i ponovo enter. (Windows pokre?eš pomo?u GRUB-a ili jednostavno izvadi disketu. Odštampaj ili prepiši ovo uputstvo.)
+
+[Креирај тему форума везану за овај текст](https://linuxo.org/nova-tema-na-forumu/?se_pid=1085)

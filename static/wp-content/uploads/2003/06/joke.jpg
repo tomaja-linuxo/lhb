@@ -1,0 +1,2 @@
+<head/><br/>
+<b>Recoverable fatal error</b>:  ini_set(): Cannot set 'user' save handler by ini_set() or session_module_name() in <b>/home/linuxoor/public_html/sites/default/settings.php</b> on line <b>164</b><br/>

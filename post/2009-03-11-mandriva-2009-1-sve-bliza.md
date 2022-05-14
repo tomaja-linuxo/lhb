@@ -1,0 +1,17 @@
+---
+author: tomaja
+date: "2009-03-11T09:03:53Z"
+excerpt: |
+  <img class=" alignright size-full wp-image-1335" src="https://linuxo.org/wp-content/uploads/2006/10/mandriva.png" alt="Mandriva" title="Mandriva" hspace="4" width="90" height="67" align="right" />Upravo je objavljena <strong>Mandriva 2009.1 RC1</strong> (kodno ime &quot;pomerol&quot;) - Ova&nbsp; RC1 verzija uključuje update-ovane verzije glavnih grafičkih okruženja poput KDE 4.2.1, GNOME 2.25.92, Xfce 4.6, X.Org server 1.6, OpenOffice.org 3.0.1 i Qt 4.5.0. Ovaj put je su ti i novi elementi grafičkog izgleda nove Mandrive (poput desktop wallpaper-a) kao i mogućnost kreiranja &#39;One&#39; GNOME hibridnog ISO image fajla za USB memoriju. Takođe su tu i neke nove a veoma korisne alatke poput: HDT (Hardware Detection Tool) - koji omogućava pregled kompletnog hardvera bez potreba za podizanjem sistema; Draksnapshot restore alati - koji omogućava oporavak kompletnog sistema na osnovu datuma koji sami biramo. Treba jo&scaron; reći da kompletan KDE 3 neće doći uz ovu verziju, osim osnovnih delova i nekih aplikacija koje su jo&scaron; uvek potrebne uz KDE 4.2.1.&nbsp; Vi&scaron;e detalja&nbsp;<a href="http://blog.mandriva.com/2009/03/11/mandriva-linux-2009-spring-rc1-ready-for-tests/" target="_blank">ovde</a>&nbsp;i <a href="http://wiki.mandriva.com/en/2009.1_RC_1">tamo</a>&nbsp;plus&nbsp;link za <a href="http://wiki.mandriva.com/en/2009.1_RC_1#Availability" target="_blank">download</a>&nbsp;
+guid: https://forum.linuxo.org/2009/03/11/mandriva-2009-1-sve-bliza/
+id: 2236
+image: /wp-content/uploads/2006/10/mandriva.png
+tc-thumb-fld:
+- a:2:{s:9:"_thumb_id";s:4:"1335";s:11:"_thumb_type";s:5:"thumb";}
+title: Mandriva 2009.1 sve bliža
+url: /mandriva-2009-1-sve-bliza/
+---
+<img class=" alignright size-full wp-image-1335" src="https://linuxo.org/wp-content/uploads/2006/10/mandriva.png" alt="Mandriva" title="Mandriva" hspace="4" width="90" height="67" align="right" />Upravo je objavljena **Mandriva 2009.1 RC1** (kodno ime "pomerol") &#8211; Ova&nbsp; RC1 verzija uključuje update-ovane verzije glavnih grafičkih okruženja poput KDE 4.2.1, GNOME 2.25.92, Xfce 4.6, X.Org server 1.6, OpenOffice.org 3.0.1 i Qt 4.5.0. Ovaj put je su ti i novi elementi grafičkog izgleda nove Mandrive (poput desktop wallpaper-a) kao i mogućnost kreiranja 'One' GNOME hibridnog ISO image fajla za USB memoriju. Takođe su tu i neke nove a veoma korisne alatke poput: HDT (Hardware Detection Tool) &#8211; koji omogućava pregled kompletnog hardvera bez potreba za podizanjem sistema; Draksnapshot restore alati &#8211; koji omogućava oporavak kompletnog sistema na osnovu datuma koji sami biramo. Treba jo&scaron; reći da kompletan KDE 3 neće doći uz ovu verziju, osim osnovnih delova i nekih aplikacija koje su jo&scaron; uvek potrebne uz KDE 4.2.1.&nbsp; Vi&scaron;e detalja&nbsp;<a href="http://blog.mandriva.com/2009/03/11/mandriva-linux-2009-spring-rc1-ready-for-tests/" target="_blank">ovde</a>&nbsp;i [tamo](http://wiki.mandriva.com/en/2009.1_RC_1)&nbsp;plus&nbsp;link za <a href="http://wiki.mandriva.com/en/2009.1_RC_1#Availability" target="_blank">download</a>&nbsp;  
+<!--break-->
+
+[Креирај тему форума везану за овај текст](https://linuxo.org/nova-tema-na-forumu/?se_pid=2236)

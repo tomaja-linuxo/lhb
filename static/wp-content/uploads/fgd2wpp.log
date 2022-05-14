@@ -1,0 +1,111 @@
+=== START test_database 2018-09-21 16:29:52 ===
+Connected with success to the Drupal database
+Drupal data found:
+0 articles
+1838 stories
+16 pages
+0 categories
+0 tags
+7149 users
+76620 comments
+2 Filters
+148 Free tags
+3 Download tagovi
+4 Korisnikovi download tagovi
+2 Webform
+6 HOWTO stranica
+12 Blog tekst
+26 Anketa
+2 Download
+9880 forum topics
+
+[WARNING] Your Drupal database contains CCK data. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/cck/" target="_blank">CCK add-on</a> to import them.
+[WARNING] Your Drupal database contains page titles. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/metatag/" target="_blank">Metatag add-on</a> to import them.
+[WARNING] Your Drupal database contains translations. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/internationalization/" target="_blank">Internationalization add-on</a> to import them.
+=== END test_database 2018-09-21 16:29:53 ===
+
+=== START save 2018-09-21 16:30:50 ===
+Settings saved
+=== END save 2018-09-21 16:30:50 ===
+
+=== START import 2018-09-21 16:30:57 ===
+Connected with success to the Drupal database
+Drupal data found:
+0 articles
+1838 stories
+16 pages
+0 categories
+0 tags
+7149 users
+76620 comments
+2 Filters
+148 Free tags
+3 Download tagovi
+4 Korisnikovi download tagovi
+2 Webform
+6 HOWTO stranica
+12 Blog tekst
+26 Anketa
+2 Download
+9880 forum topics
+
+[WARNING] Your Drupal database contains CCK data. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/cck/" target="_blank">CCK add-on</a> to import them.
+[WARNING] Your Drupal database contains page titles. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/metatag/" target="_blank">Metatag add-on</a> to import them.
+[WARNING] Your Drupal database contains translations. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/internationalization/" target="_blank">Internationalization add-on</a> to import them.
+Filters taxonomy registered
+Free tags taxonomy registered
+Korisnikovi download tagovi taxonomy registered
+Webform post type registered
+HOWTO stranica post type registered
+Blog tekst post type registered
+Anketa post type registered
+Download post type registered
+Importing authors...
+Authors imported
+Importing categories...
+0 categories imported
+Importing tags...
+0 tags imported
+Importing Filters...
+2 Filters imported
+Importing Free tags...
+148 Free tags imported
+Importing Download tagovi...
+0 Download tagovi imported
+Importing Korisnikovi download tagovi...
+4 Korisnikovi download tagovi imported
+Importing articles...
+0 articles imported
+Importing stories...
+1838 stories imported
+Importing pages...
+16 pages imported
+Importing users...
+7082 users imported
+Importing webforms...
+2 Webform imported
+Importing books...
+6 HOWTO stranica imported
+Importing blogs...
+12 Blog tekst imported
+Importing polls...
+26 Anketa imported
+Importing downloads...
+2 Download imported
+Importing redirects...
+295 redirects imported
+40 forums imported
+Importing forums...
+9901 forum topics imported
+Importing comments...
+1352 comments imported
+1633 medias imported
+75265 forum replies imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2018-09-22 00:40:50 ===
+
+=== START modify_links 2018-09-22 04:58:54 ===
+45 internal links modified
+=== END modify_links 2018-09-22 04:58:57 ===
+
